@@ -1,4 +1,3 @@
-# Eclipse-Protocol
 
 # 🌑 Eclipse Protocol
 
